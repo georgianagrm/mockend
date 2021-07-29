@@ -1,7 +1,8 @@
 {
     "Users": {
         "userSessions": {
-            "int": [ { "id": "1" }, { "id": "2" }, { "id": "1" }, { "id": "1" }, { "id": "2" }, { "minutes_played": "33" }, { "minutes_played": "150" }, { "minutes_played": "110" }, { "minutes_played": "340" }, { "minutes_played": "45" } ]
+            "id": [ { "int": "1" }, { "int": "2" }, { "int": "1" }, { "int": "1" }, { "int": "2" }],
+            "minutes_played": [{ "int": "33" }, { "int": "150" }, { "int": "110" }, { "int": "340" }, { "int": "45" } ]
         }
     }
 }
