@@ -1,60 +1,10 @@
 {
-   "Users":[
-      {
-         "id":"1",
-         "name":"admin",
-         "email":"admin@gmail.com",
-         "sessions":[
-            {
-               "id_session":"1",
-               "minutes_played":"33",
-               "rounds_won":"1",
-               "rounds_lost":"0",
-               "session_date":"23-08-2021"
-            },
-            {
-               "id_session":"2",
-               "minutes_played":"110",
-               "rounds_won":"1",
-               "rounds_lost":"2",
-               "session_date":"23-08-2021"
-            },
-            {
-               "id_session":"3",
-               "minutes_played":"340",
-               "rounds_won":"4",
-               "rounds_lost":"1",
-               "session_date":"29-09-2021"
-            }
-         ]
-      },
-      {
-         "id":"2",
-         "name":"georgiana",
-         "email":"georgiana.grumazescu@gmail.com",
-         "sessions":[
-            {
-               "id_session":"1",
-               "minutes_played":"150",
-               "rounds_won":"2",
-               "rounds_lost":"1",
-               "session_date":"12-05-2021"
-            },
-            {
-               "id_session":"2",
-               "minutes_played":"45",
-               "rounds_won":"0",
-               "rounds_lost":"2",
-               "session_date":"22-09-2021"
-            },
-            {
-               "id_session":"3",
-               "minutes_played":"30",
-               "rounds_won":"0",
-               "rounds_lost":"1",
-               "session_date":"17-01-2021"
-            }
-         ]
-      }
-   ]
+    "Users": {
+        "userSessions": {
+            "int": [ { "id": "1" }, { "id": "2" }, { "id": "1" }, { "id": "1" }, { "id": "2" } ],
+            "int": [ { "minutes_played": "33" }, { "minutes_played": "150" }, { "minutes_played": "110" }, { "minutes_played": "340" }, { "minutes_played": "45" } ],
+            "int": [ { "rounds_won": "1" }, { "rounds_won": "2" }, { "rounds_won": "1" }, { "rounds_won": "4" }, { "rounds_won": "0" } ],
+            "int": [ { "rounds_lost": "0" }, { "rounds_lost": "1" }, { "rounds_lost": "2" }, { "rounds_lost": "1" }, { "rounds_lost": "2" } ]
+        }
+    }
 }
