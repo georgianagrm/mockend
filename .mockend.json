@@ -1,10 +1,7 @@
 {
     "Users": {
         "userSessions": {
-            "int": [ { "id": "1" }, { "id": "2" }, { "id": "1" }, { "id": "1" }, { "id": "2" } ],
-            "int": [ { "minutes_played": "33" }, { "minutes_played": "150" }, { "minutes_played": "110" }, { "minutes_played": "340" }, { "minutes_played": "45" } ],
-            "int": [ { "rounds_won": "1" }, { "rounds_won": "2" }, { "rounds_won": "1" }, { "rounds_won": "4" }, { "rounds_won": "0" } ],
-            "int": [ { "rounds_lost": "0" }, { "rounds_lost": "1" }, { "rounds_lost": "2" }, { "rounds_lost": "1" }, { "rounds_lost": "2" } ]
+            "int": [ { "id": "1" }, { "id": "2" }, { "id": "1" }, { "id": "1" }, { "id": "2" }, { "minutes_played": "33" }, { "minutes_played": "150" }, { "minutes_played": "110" }, { "minutes_played": "340" }, { "minutes_played": "45" } ]
         }
     }
 }
