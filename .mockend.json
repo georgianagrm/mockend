@@ -1,8 +1,0 @@
-{
-    "Users": {
-        "userSessions": {
-            "id": [ { "int": "1" }, { "int": "2" }, { "int": "1" }, { "int": "1" }, { "int": "2" }],
-            "minutes_played": [{ "int": "33" }, { "int": "150" }, { "int": "110" }, { "int": "340" }, { "int": "45" } ]
-        }
-    }
-}
